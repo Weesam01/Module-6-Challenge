@@ -1,5 +1,5 @@
 # Module-6-Challenge
-In this repository you will find a .ipynb file named SanFrancisco Housing, in this file we are a analyst at a proptech companythat wants to offer an instant, one-click service for people to buy properties and then rent them. My job is to use data visualization skills,interactive visualizations, and geospatial analysis, to find properties in the San Francisco market that are viable investment opportunities. 
+In this repository you will find a .ipynb file named SanFrancisco Housing, in this file we are a analyst at a proptech company that wants to offer an instant, one-click service for people to buy properties and then rent them. My job is to use data visualization skills,interactive visualizations, and geospatial analysis, to find properties in the San Francisco market that are viable investment opportunities. 
 
 # Part 1 Calculate and Plot the Housing Units per Year
 We will use numerical and visual aggregation to calculate the number of housing units per year, and then visualize the results as a bar chart.
